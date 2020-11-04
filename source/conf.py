@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'gdhy'
+project = '古代汉语'
 copyright = '2020, wl'
 author = 'wl'
 

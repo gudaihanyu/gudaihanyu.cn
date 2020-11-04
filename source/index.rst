@@ -1,20 +1,32 @@
-.. gdhy documentation master file, created by
-   sphinx-quickstart on Tue Nov  3 20:21:49 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. toctree::
+   :maxdepth: 3
+   :caption: 第一单元
 
-Welcome to gdhy's documentation!
-================================
+   1.0
+   1.1
+   1.2
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 第二单元
 
+   2.0
+   2.1
+   2.2
 
+.. toctree::
+   :maxdepth: 3
+   :caption: 第三单元
 
-Indices and tables
-==================
+   3.0
+   3.1
+   3.2
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 2
+   :caption: 第四单元
+
+   4.0
+   4.1  
+   4.2 

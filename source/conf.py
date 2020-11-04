@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = '古代汉语'
-copyright = '2020, wl'
-author = 'wl'
+copyright = ''
+author = '王力'
 
 
 # -- General configuration ---------------------------------------------------

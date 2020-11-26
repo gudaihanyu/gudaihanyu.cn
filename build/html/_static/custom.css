@@ -13,10 +13,6 @@ p{
 }
 p.rubric{
     font-weight: normal;
-    margin-bottom: 10px;
-border-left: 3px solid #ddd;
-padding-left: 5px;
-font-size: 16px;
 }
 .footnote p {
     font-size: 16px;

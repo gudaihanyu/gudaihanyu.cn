@@ -1,3 +1,9 @@
+.. title:: 欢迎
+
+.. meta::
+   :description: The reStructuredText plaintext markup language
+   :keywords: 古代汉语, 古汉语 language
+
 .. toctree::
    :maxdepth: 3
    :caption: 第一单元
